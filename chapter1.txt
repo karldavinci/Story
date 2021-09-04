@@ -1,1 +1,2 @@
 This is just a mock text to test git chapter
+yet another mock text to be added.
